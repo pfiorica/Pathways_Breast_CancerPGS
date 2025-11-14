@@ -1,0 +1,776 @@
+[1] "p = 5"
+[1] "class of p is numeric"
+        rsID chr_name chr_position effect_allele reference_allele effect_weight
+1   rs612683        1    100880328             T                A   0.032422929
+2   rs616488        1     10566215             G                A  -0.082938246
+3 rs56097627        1    110198129             C             CAAA   0.035596784
+4   rs616489        1    114445880             A                G   0.057799338
+5 rs12406858        1    118141492             C                A   0.017716253
+6   rs616490        1    120257110             C                T   0.006586358
+  allelefrequency_effect
+1              0.4106331
+2              0.3220920
+3              0.7790126
+4              0.1702704
+5              0.2712871
+6              0.5343128
+pop AA
+chr1
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-24.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-27.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-9.gds
+chr2
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-26.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-28.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-29.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-9.gds
+chr3
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-6.gds
+chr4
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-9.gds
+chr5
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-4.gds
+chr6
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-9.gds
+chr7
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-9.gds
+chr8
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-9.gds
+chr9
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-9.gds
+chr10
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-7.gds
+chr11
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-5.gds
+chr12
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-8.gds
+chr13
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-9.gds
+chr14
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-8.gds
+chr15
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-8.gds
+chr16
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-8.gds
+chr17
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-7.gds
+chr18
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-9.gds
+chr19
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr19-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr19-4.gds
+chr20
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-8.gds
+chr21
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-4.gds
+chr22
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/AAcohort/Sample.Filtered/1kg/R2filter/GDS/chr22-5.gds
+pop EA4
+chr1
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-24.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-27.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr1-9.gds
+chr2
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-26.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-28.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-29.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr2-9.gds
+chr3
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr3-6.gds
+chr4
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr4-9.gds
+chr5
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr5-4.gds
+chr6
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr6-9.gds
+chr7
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr7-9.gds
+chr8
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr8-9.gds
+chr9
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr9-9.gds
+chr10
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr10-7.gds
+chr11
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr11-5.gds
+chr12
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr12-8.gds
+chr13
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr13-9.gds
+chr14
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr14-8.gds
+chr15
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr15-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr15-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr15-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr15-8.gds
+chr16
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr16-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr16-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr16-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr16-8.gds
+chr17
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr17-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr17-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr17-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr17-7.gds
+chr18
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr18-9.gds
+chr19
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr19-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr19-4.gds
+chr20
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr20-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr20-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr20-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr20-8.gds
+chr21
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr21-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr21-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr21-4.gds
+chr22
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EA4cohort/Sample.Filtered/1kg/R2filter/GDS/chr22-5.gds
+pop EU
+chr1
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-24.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-27.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr1-9.gds
+chr2
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-26.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-28.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-29.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr2-9.gds
+chr3
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr3-6.gds
+chr4
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr4-9.gds
+chr5
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr5-4.gds
+chr6
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr6-9.gds
+chr7
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr7-9.gds
+chr8
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr8-9.gds
+chr9
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr9-9.gds
+chr10
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr10-7.gds
+chr11
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr11-5.gds
+chr12
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr12-8.gds
+chr13
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr13-9.gds
+chr14
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr14-8.gds
+chr15
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr15-8.gds
+chr16
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr16-8.gds
+chr17
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr17-7.gds
+chr18
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr18-9.gds
+chr19
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr19-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr19-4.gds
+chr20
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr20-8.gds
+chr21
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr21-4.gds
+chr22
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/EUcohort/Sample.Filtered/1kg/R2filter/GDS/chr22-5.gds
+pop HIS
+chr1
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-24.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-27.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr1-9.gds
+chr2
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-26.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-28.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-29.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr2-9.gds
+chr3
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr3-6.gds
+chr4
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-22.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-25.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr4-9.gds
+chr5
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr5-4.gds
+chr6
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-21.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-23.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr6-9.gds
+chr7
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-14.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-15.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-19.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr7-9.gds
+chr8
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-18.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-20.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr8-9.gds
+chr9
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr9-9.gds
+chr10
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr10-7.gds
+chr11
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr11-5.gds
+chr12
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-16.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-17.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr12-8.gds
+chr13
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-12.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-13.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr13-9.gds
+chr14
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr14-8.gds
+chr15
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr15-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr15-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr15-5.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr15-8.gds
+chr16
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr16-11.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr16-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr16-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr16-8.gds
+chr17
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr17-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr17-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr17-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr17-7.gds
+chr18
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-10.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-7.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-8.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr18-9.gds
+chr19
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr19-1.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr19-4.gds
+chr20
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr20-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr20-4.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr20-6.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr20-8.gds
+chr21
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr21-2.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr21-3.gds
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr21-4.gds
+chr22
+No variant match in /projects/rpci/qzhu/eschille/BreastGWAS/No_Y_Chrom/maf1.noHM/Input/Imputation/HIScohort/Sample.Filtered/1kg/R2filter/GDS/chr22-5.gds

@@ -1,0 +1,801 @@
+
+ N E X T F L O W   ~  version 24.10.3
+
+NOTE: Your local project version looks outdated - a different revision is available in the remote repository [82ee2902ad]
+Launching `https://github.com/pgscatalog/pgsc_calc` [wise_wilson] DSL2 - revision: 205cbfd1f5 [main]
+
+
+
+------------------------------------------------------
+  pgscatalog/pgsc_calc v2.0.0-g205cbfd
+------------------------------------------------------
+Core Nextflow options
+  revision       : main
+  runName        : wise_wilson
+  containerEngine: singularity
+  launchDir      : /projects/rpci/songyao/pnfioric/pgs_calc
+  workDir        : /projects/rpci/songyao/pnfioric/pgs_calc/work
+  projectDir     : /user/pnfioric/.nextflow/assets/pgscatalog/pgsc_calc
+  userName       : pnfioric
+  profile        : singularity
+  configFiles    : 
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+------------------------------------------------------
+If you use pgscatalog/pgsc_calc for your analysis please cite:
+
+* The Polygenic Score Catalog
+  https://doi.org/10.1101/2024.05.29.24307783
+  https://doi.org/10.1038/s41588-021-00783-5
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://github.com/pgscatalog/pgsc_calc/blob/main/CITATIONS.md
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 15) | 15 of 15, stored: 15
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (1)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 0 of 1
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (2)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 0 of 1
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (2)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 0 of 1
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (2)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS | 0 of 9
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (6)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[5a/5edfc5] PGS…TS (pathways chromosome 6) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (7)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[5a/5edfc5] PGS…TS (pathways chromosome 6) | 1 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (9)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[5b/aca4d5] PGS…TS (pathways chromosome 2) | 3 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (9)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[5b/aca4d5] PGS…TS (pathways chromosome 2) | 3 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (10)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[bf/3e5dc3] PGS…TS (pathways chromosome 9) | 4 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (11)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[43/bffd1d] PGS…TS (pathways chromosome 7) | 5 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (12)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[32/28e818] PGS…S (pathways chromosome 17) | 6 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (13)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[a9/366ecb] PGS…S (pathways chromosome 12) | 7 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (13)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[a9/366ecb] PGS…S (pathways chromosome 12) | 7 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (14)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[7c/7480ed] PGS…S (pathways chromosome 16) | 8 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (15)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[91/daaaf6] PGS…S (pathways chromosome 15) | 9 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (16)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[e8/de1ce3] PGS…S (pathways chromosome 11) | 10 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (17)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[06/dd253c] PGS…S (pathways chromosome 10) | 11 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (17)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[06/dd253c] PGS…S (pathways chromosome 10) | 11 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (18)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[f6/3059c9] PGS…S (pathways chromosome 14) | 12 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (19)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[fb/bfc757] PGS…S (pathways chromosome 13) | 13 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (19)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[fb/bfc757] PGS…S (pathways chromosome 13) | 13 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (21)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[af/e0c348] PGS…S (pathways chromosome 19) | 15 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (21)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[af/e0c348] PGS…S (pathways chromosome 19) | 15 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (22)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[e8/a193ad] PGS…S (pathways chromosome 22) | 16 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (23)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[7a/4fbe29] PGS…S (pathways chromosome 20) | 17 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (23)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[7a/4fbe29] PGS…S (pathways chromosome 20) | 17 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 18 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 18 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[af/e0c348] PGS…S (pathways chromosome 19) | 19 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[d5/6cdba9] PGS…S (pathways chromosome 18) | 20 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[7a/4fbe29] PGS…S (pathways chromosome 20) | 21 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (24)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 22 of 22 ✔
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE | 0 of 1
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (25)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 22 of 22 ✔
+[27/b33d08] PGS…H:MATCH_COMBINE (pathways) | 0 of 1
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+
+executor >  local (25)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 22 of 22 ✔
+[27/b33d08] PGS…H:MATCH_COMBINE (pathways) | 0 of 1
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+ERROR ~ Error executing process > 'PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)'
+
+Caused by:
+  Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15)
+
+
+Command executed:
+
+  export POLARS_MAX_THREADS=2
+  
+  pgscatalog-matchmerge                          --dataset pathways             --scorefile scorefiles.txt.gz             --matches *.ipc.zst             --min_overlap 0.75                                       --outdir $PWD             --split                          -v
+  
+  cat <<-END_VERSIONS > versions.yml
+  MATCH_COMBINE:
+      pgscatalog.match: $(echo $(python -c 'import pgscatalog.match; print(pgscatalog.match.__version__)'))
+  END_VERSIONS
+
+Command exit status:
+  15
+
+Command output:
+  (empty)
+
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling best match type (refalt > altref > ...)
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-14 09:20:34 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 INFO     --filter_IDs not set, skipping filtering
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-14 09:20:34 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/bin/pgscatalog-matchmerge", line 8, in <module>
+      sys.exit(run_merge())
+               ^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 70, in run_merge
+      matchdf = write_matches(matchresults=matchresults, score_df=score_df)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/_write.py", line 33, in write_matches
+      _ = matchresults.write_scorefiles(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/lib/matchresult.py", line 329, in write_scorefiles
+      raise ZeroMatchesError(
+  pgscatalog.core.lib.pgsexceptions.ZeroMatchesError: All scores fail to meet match threshold 0.75
+  Exception ignored in atexit callback: <function _exit at 0xfc8e6ed0180>
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 20, in _exit
+      shutil.rmtree(Config.TMPDIR)
+    File "/usr/local/lib/python3.11/shutil.py", line 752, in rmtree
+      _rmtree_safe_fd(fd, path, onerror)
+    File "/usr/local/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+      onerror(os.unlink, fullname, sys.exc_info())
+    File "/usr/local/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+      os.unlink(entry.name, dir_fd=topfd)
+  OSError: [Errno 16] Device or resource busy: '.nfs541025a4215a7e1d000034b9'
+
+Work dir:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/27/b33d0872155ad1b40d7db027734d4c
+
+Container:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/singularity/ghcr.io-pgscatalog-pygscatalog-pgscatalog-utils-1.4.4-singularity.img
+
+Tip: you can try to figure out what's wrong by changing to the process work dir and showing the script file named `.command.sh`
+
+ -- Check '.nextflow.log' file for details
+
+executor >  local (25)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 22 of 22 ✔
+[27/b33d08] PGS…H:MATCH_COMBINE (pathways) | 1 of 1, failed: 1 ✘
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+Execution cancelled -- Finishing pending tasks before exit
+-[pgscatalog/pgsc_calc] Pipeline completed with errors-
+ERROR ~ Error executing process > 'PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)'
+
+Caused by:
+  Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15)
+
+
+Command executed:
+
+  export POLARS_MAX_THREADS=2
+  
+  pgscatalog-matchmerge                          --dataset pathways             --scorefile scorefiles.txt.gz             --matches *.ipc.zst             --min_overlap 0.75                                       --outdir $PWD             --split                          -v
+  
+  cat <<-END_VERSIONS > versions.yml
+  MATCH_COMBINE:
+      pgscatalog.match: $(echo $(python -c 'import pgscatalog.match; print(pgscatalog.match.__version__)'))
+  END_VERSIONS
+
+Command exit status:
+  15
+
+Command output:
+  (empty)
+
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling best match type (refalt > altref > ...)
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-14 09:20:34 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 INFO     --filter_IDs not set, skipping filtering
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-14 09:20:34 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/bin/pgscatalog-matchmerge", line 8, in <module>
+      sys.exit(run_merge())
+               ^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 70, in run_merge
+      matchdf = write_matches(matchresults=matchresults, score_df=score_df)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/_write.py", line 33, in write_matches
+      _ = matchresults.write_scorefiles(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/lib/matchresult.py", line 329, in write_scorefiles
+      raise ZeroMatchesError(
+  pgscatalog.core.lib.pgsexceptions.ZeroMatchesError: All scores fail to meet match threshold 0.75
+  Exception ignored in atexit callback: <function _exit at 0xfc8e6ed0180>
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 20, in _exit
+      shutil.rmtree(Config.TMPDIR)
+    File "/usr/local/lib/python3.11/shutil.py", line 752, in rmtree
+      _rmtree_safe_fd(fd, path, onerror)
+    File "/usr/local/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+      onerror(os.unlink, fullname, sys.exc_info())
+    File "/usr/local/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+      os.unlink(entry.name, dir_fd=topfd)
+  OSError: [Errno 16] Device or resource busy: '.nfs541025a4215a7e1d000034b9'
+
+Work dir:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/27/b33d0872155ad1b40d7db027734d4c
+
+Container:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/singularity/ghcr.io-pgscatalog-pygscatalog-pgscatalog-utils-1.4.4-singularity.img
+
+Tip: you can try to figure out what's wrong by changing to the process work dir and showing the script file named `.command.sh`
+
+ -- Check '.nextflow.log' file for details
+
+executor >  local (25)
+[a7/9c52a0] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[98/895a8c] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 20) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[c9/cbf875] PGS…S (pathways chromosome 21) | 22 of 22 ✔
+[27/b33d08] PGS…H:MATCH_COMBINE (pathways) | 1 of 1, failed: 1 ✘
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+[-        ] PGS…PPLY_SCORE:SCORE_AGGREGATE -
+[-        ] PGS…SCCALC:REPORT:SCORE_REPORT -
+[-        ] PGS…CCALC:DUMPSOFTWAREVERSIONS -
+Execution cancelled -- Finishing pending tasks before exit
+-[pgscatalog/pgsc_calc] Pipeline completed with errors-
+ERROR ~ Error executing process > 'PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)'
+
+Caused by:
+  Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15)
+
+
+Command executed:
+
+  export POLARS_MAX_THREADS=2
+  
+  pgscatalog-matchmerge                          --dataset pathways             --scorefile scorefiles.txt.gz             --matches *.ipc.zst             --min_overlap 0.75                                       --outdir $PWD             --split                          -v
+  
+  cat <<-END_VERSIONS > versions.yml
+  MATCH_COMBINE:
+      pgscatalog.match: $(echo $(python -c 'import pgscatalog.match; print(pgscatalog.match.__version__)'))
+  END_VERSIONS
+
+Command exit status:
+  15
+
+Command output:
+  (empty)
+
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling best match type (refalt > altref > ...)
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-14 09:20:34 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-14 09:20:34 INFO     --filter_IDs not set, skipping filtering
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-14 09:20:34 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-14 09:20:34 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-14 09:20:34 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-14 09:20:34 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/bin/pgscatalog-matchmerge", line 8, in <module>
+      sys.exit(run_merge())
+               ^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 70, in run_merge
+      matchdf = write_matches(matchresults=matchresults, score_df=score_df)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/_write.py", line 33, in write_matches
+      _ = matchresults.write_scorefiles(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/lib/matchresult.py", line 329, in write_scorefiles
+      raise ZeroMatchesError(
+  pgscatalog.core.lib.pgsexceptions.ZeroMatchesError: All scores fail to meet match threshold 0.75
+  Exception ignored in atexit callback: <function _exit at 0xfc8e6ed0180>
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 20, in _exit
+      shutil.rmtree(Config.TMPDIR)
+    File "/usr/local/lib/python3.11/shutil.py", line 752, in rmtree
+      _rmtree_safe_fd(fd, path, onerror)
+    File "/usr/local/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+      onerror(os.unlink, fullname, sys.exc_info())
+    File "/usr/local/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+      os.unlink(entry.name, dir_fd=topfd)
+  OSError: [Errno 16] Device or resource busy: '.nfs541025a4215a7e1d000034b9'
+
+Work dir:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/27/b33d0872155ad1b40d7db027734d4c
+
+Container:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/singularity/ghcr.io-pgscatalog-pygscatalog-pgscatalog-utils-1.4.4-singularity.img
+
+Tip: you can try to figure out what's wrong by changing to the process work dir and showing the script file named `.command.sh`
+
+ -- Check '.nextflow.log' file for details
+

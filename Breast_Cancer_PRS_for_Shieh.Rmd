@@ -1,0 +1,156 @@
+---
+title: "Calculating Breast Cancer PGS for Yiwey Shieh"
+author: "Peter Fiorica"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+On November 13 2025, Song Yao, Christine Ambrosone, and I received an email from Larry Kushi (Subject: RE: EXTERNAL: Re: Pathways collaboration) requesting that we share the following PGS with Yiwey Shieh.
+
+
+* PGS000004
+* PGS000007
+* PGS000015
+* PGS000332
+
+And *PGP000088* from Zhang et al Nat Genet (2020).
+
+The above 4 are already calculated. I now need to calculate the last one PGS for the Pathways samples. Just like I did for the CVD project, I will use PGCS_CALC
+
+```
+nextflow run pgscatalog/pgsc_calc \
+    -profile singularity \
+    --input /projects/rpci/songyao/pnfioric/pgs_calc/pathways_samplesheet2.csv --target_build GRCh37 \
+    --pgs_id PGS000212, PGS000213, PGS000214, PGS000215, PGS000216 \
+    --run_ancestry /projects/rpci/songyao/pnfioric/pgs_calc/pgsc_HGDP+1kGP_v1.tar.zst \
+    --n_popcomp 5 -c /projects/rpci/songyao/pnfioric/pgs_calc/default_hpc.config --max_cpus 8 
+```
+
+
+The above code executed with the `02_call_pgsc_calc.sh` script did not run properly since it appears that only 2/3 of the PGS SNPs intersect with the genotypes. Last time, this was because of the ancestry execution process where it only includes the SNPs that intersect with 1000G and HGDP.
+
+```
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-13 21:08:01 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Reading filter file (variant IDs)
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:13 DEBUG    Excluding variants that are not in ID list (read 27506891 IDs)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-13 21:08:24 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:46 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:58 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:09:09 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+```
+
+
+Once again when I execute the code:
+```
+nextflow run pgscatalog/pgsc_calc \
+    -profile singularity \
+    --input /projects/rpci/songyao/pnfioric/pgs_calc/pathways_samplesheet2.csv --target_build GRCh37 \
+    --pgs_id  PGS000212,PGS000213,PGS000214,PGS000215,PGS000216 \
+#    --run_ancestry /projects/rpci/songyao/pnfioric/pgs_calc/pgsc_HGDP+1kGP_v1.tar.zst \
+    --outdir /projects/rpci/songyao/pnfioric/pgs_calc/breast_cancer_pgs/results/ \
+#    --n_popcomp 5 \
+    -c /projects/rpci/songyao/pnfioric/pgs_calc/default_hpc.config --max_cpus 8 
+```
+
+
+# Switching things up
+
+Ultimately, I decided to return to the older version of calculating the PGS manually. While PGSC_CALC had the advantages of scalability. It is not the easiest to troubleshoot. As a result, I decided to calculate the PGS using the original code. This process is described at https://github.com/pfiorica/WCHS_BrCa_PGS.
+
+I work through the scripts numbered with `03_*` to `05_*`.
+
+```{r, echo = FALSE}
+suppressMessages({
+  library(ggplot2)
+  library(data.table)
+  library(dplyr)
+})
+
+pgs_results <- fread("/projects/rpci/songyao/pnfioric/pgs_calc/breast_cancer_pgs/Pathways_330_PGS.csv", header = T)
+pop_similarity <- fread("/projects/rpci/songyao/pnfioric/pgs_calc/breast_cancer_pgs/pathways_popsimilarity.txt.gz", header = T)# %>% select(IID, MostSimilarPop)
+
+pgs_results_sim <- left_join(pgs_results, pop_similarity, by = c("samples"= "IID"))
+pgs_results_long <- melt(
+  pgs_results_sim,
+  id.vars = c("samples", "MostSimilarPop"),
+  measure.vars = patterns("^PGS"),
+  variable.name = "PGS_ID",
+  value.name = "PGS_Value"
+)
+```
+
+```{r PCA plots, fig.height=8, fig.width=11, echo = FALSE}
+ggplot(pop_similarity, aes(x=PC1, y = PC2, color = MostSimilarPop, shape = sampleset))+
+  geom_point(alpha =0.2)+
+  theme_bw(20) +  ggtitle("Pathways PCA")
+
+ggplot(pop_similarity, aes(x=PC1, y = PC3, color = MostSimilarPop , shape = sampleset))+
+  geom_point(alpha =0.2)+
+  theme_bw(20) +  ggtitle("Pathways PCA")
+
+ggplot(pop_similarity, aes(x=PC2, y = PC3, color = MostSimilarPop , shape = sampleset))+
+  geom_point(alpha =0.2)+
+  theme_bw(20) +  ggtitle("Pathways PCA")
+```
+
+
+# Unnormalized
+
+```{r, fig.height =10, fig.width =13, echo = FALSE}
+ggplot(pgs_results_long, aes(x=PGS_Value, fill = MostSimilarPop))+
+  geom_density(alpha = 0.33) +
+  facet_wrap(~PGS_ID)+
+  theme_bw(24) +ggtitle("PGP000088 (PGS330 from Zhang et al (2020))")
+```
+
+# Normalization
+
+```{r normalization}
+pgs_cols <- grep("^PGS", names(pgs_results_sim), value = TRUE)
+
+pgs_results_sim[, (pgs_cols) := lapply(.SD, function(x) (x - mean(x, na.rm=TRUE)) / sd(x, na.rm=TRUE)), 
+   by = MostSimilarPop, 
+   .SDcols = pgs_cols]
+
+pgs_results_sim_longer_norm <- melt(
+  pgs_results_sim,
+  id.vars = c("samples", "MostSimilarPop"),
+  measure.vars = patterns("^PGS"),
+  variable.name = "PGS_ID",
+  value.name = "PGS_Value"
+)
+```
+
+```{r, fig.height =10, fig.width =13, echo = FALSE}
+ggplot(pgs_results_sim_longer_norm, aes(x=PGS_Value, fill = MostSimilarPop))+
+  geom_density(alpha = 0.33) +
+  facet_wrap(~PGS_ID)+
+  theme_bw(24) +ggtitle("Normalized PGP000088 (PGS330 from Zhang et al (2020))")
+
+```
+
+```{r}
+pgs_results_sim_norm_to_write <- pgs_results_sim %>% select(samples:PGS000216, MostSimilarPop)
+write.csv(pgs_results_sim_norm_to_write, "/projects/rpci/songyao/pnfioric/pgs_calc/breast_cancer_pgs/Pathways_330_PGS_Normalized.csv")
+```

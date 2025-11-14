@@ -1,0 +1,869 @@
+
+ N E X T F L O W   ~  version 24.10.3
+
+NOTE: Your local project version looks outdated - a different revision is available in the remote repository [82ee2902ad]
+Launching `https://github.com/pgscatalog/pgsc_calc` [desperate_chandrasekhar] DSL2 - revision: 205cbfd1f5 [main]
+
+
+
+------------------------------------------------------
+  pgscatalog/pgsc_calc v2.0.0-g205cbfd
+------------------------------------------------------
+Core Nextflow options
+  revision       : main
+  runName        : desperate_chandrasekhar
+  containerEngine: singularity
+  launchDir      : /projects/rpci/songyao/pnfioric/pgs_calc
+  workDir        : /projects/rpci/songyao/pnfioric/pgs_calc/work
+  projectDir     : /user/pnfioric/.nextflow/assets/pgscatalog/pgsc_calc
+  userName       : pnfioric
+  profile        : singularity
+  configFiles    : 
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+------------------------------------------------------
+If you use pgscatalog/pgsc_calc for your analysis please cite:
+
+* The Polygenic Score Catalog
+  https://doi.org/10.1101/2024.05.29.24307783
+  https://doi.org/10.1038/s41588-021-00783-5
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://github.com/pgscatalog/pgsc_calc/blob/main/CITATIONS.md
+
+Reference database provided: skipping bootstrap
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…Y_PROJECT:EXTRACT_DATABASE -
+[-        ] PGS…PROJECT:INTERSECT_VARIANTS -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…Y_PROJECT:EXTRACT_DATABASE -
+[-        ] PGS…PROJECT:INTERSECT_VARIANTS -
+[-        ] PGS…RY_PROJECT:FILTER_VARIANTS -
+[-        ] PGS…PROJECT:PLINK2_MAKEBED_REF -
+[-        ] PGS…_PROJECT:INTERSECT_THINNED -
+[-        ] PGS…CESTRY_PROJECT:RELABEL_IDS -
+[-        ] PGS…JECT:PLINK2_MAKEBED_TARGET -
+[-        ] PGS…STRY_PROJECT:PLINK2_ORIENT -
+[-        ] PGS…CESTRY_PROJECT:FRAPOSA_PCA -
+[-        ] PGS…RY_PROJECT:FRAPOSA_PROJECT -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…Y_PROJECT:EXTRACT_DATABASE -
+[-        ] PGS…PROJECT:INTERSECT_VARIANTS -
+[-        ] PGS…RY_PROJECT:FILTER_VARIANTS -
+[-        ] PGS…PROJECT:PLINK2_MAKEBED_REF -
+[-        ] PGS…_PROJECT:INTERSECT_THINNED -
+[-        ] PGS…CESTRY_PROJECT:RELABEL_IDS -
+[-        ] PGS…JECT:PLINK2_MAKEBED_TARGET -
+[-        ] PGS…STRY_PROJECT:PLINK2_ORIENT -
+[-        ] PGS…CESTRY_PROJECT:FRAPOSA_PCA -
+[-        ] PGS…RY_PROJECT:FRAPOSA_PROJECT -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[-        ] PGS…:APPLY_SCORE:RELABEL_AFREQ -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 2 more processes waiting for tasks…
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES -
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[-        ] PGS…PATIBLE:PLINK2_RELABELPVAR -
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[-        ] PGS…Y_PROJECT:EXTRACT_DATABASE -
+[-        ] PGS…PROJECT:INTERSECT_VARIANTS -
+[-        ] PGS…RY_PROJECT:FILTER_VARIANTS -
+[-        ] PGS…PROJECT:PLINK2_MAKEBED_REF -
+[-        ] PGS…_PROJECT:INTERSECT_THINNED -
+[-        ] PGS…CESTRY_PROJECT:RELABEL_IDS -
+[-        ] PGS…JECT:PLINK2_MAKEBED_TARGET -
+[-        ] PGS…STRY_PROJECT:PLINK2_ORIENT -
+[-        ] PGS…CESTRY_PROJECT:FRAPOSA_PCA -
+[-        ] PGS…RY_PROJECT:FRAPOSA_PROJECT -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[-        ] PGS…:APPLY_SCORE:RELABEL_AFREQ -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+[-        ] PGS…SCCALC:DOWNLOAD_SCOREFILES | 0 of 1
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 18) | 17 of 17, stored: 17
+[-        ] PGS…RY_PROJECT:FILTER_VARIANTS -
+[-        ] PGS…PROJECT:PLINK2_MAKEBED_REF -
+[-        ] PGS…_PROJECT:INTERSECT_THINNED -
+[-        ] PGS…CESTRY_PROJECT:RELABEL_IDS -
+[-        ] PGS…JECT:PLINK2_MAKEBED_TARGET -
+[-        ] PGS…STRY_PROJECT:PLINK2_ORIENT -
+[-        ] PGS…CESTRY_PROJECT:FRAPOSA_PCA -
+[-        ] PGS…RY_PROJECT:FRAPOSA_PROJECT -
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[-        ] PGS…:APPLY_SCORE:RELABEL_AFREQ -
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (1)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 0 of 1
+[-        ] PGS…T_CHECK:COMBINE_SCOREFILES -
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (2)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 0 of 1
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (2)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 0 of 1
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS -
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (2)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[-        ] PGS…CCALC:MATCH:MATCH_VARIANTS | 0 of 5
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (8)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[9e/db70f6] PGS…TS (pathways chromosome 6) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (13)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[e2/04ccad] PGS…S (pathways chromosome 14) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (17)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[86/87c22a] PGS…S (pathways chromosome 15) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (22)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[0a/900c4c] PGS…S (pathways chromosome 17) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (24)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (24)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 0 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (24)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[9e/db70f6] PGS…TS (pathways chromosome 6) | 1 of 22
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (24)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[-        ] PGS…SCCALC:MATCH:MATCH_COMBINE -
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (25)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[26/9bb797] PGS…H:MATCH_COMBINE (pathways) | 0 of 1
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (25)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[26/9bb797] PGS…H:MATCH_COMBINE (pathways) | 0 of 1
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+executor >  slurm (25)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[26/9bb797] PGS…H:MATCH_COMBINE (pathways) | 1 of 2, failed: 1, retries: 1
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+[26/9bb797] NOTE: Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15) -- Execution is retried (1)
+
+executor >  slurm (26)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[d5/d8b3bb] PGS…H:MATCH_COMBINE (pathways) | 1 of 2, failed: 1, retries: 1
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+[26/9bb797] NOTE: Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15) -- Execution is retried (1)
+
+executor >  slurm (26)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[d5/d8b3bb] PGS…H:MATCH_COMBINE (pathways) | 1 of 2, failed: 1, retries: 1
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+
+executor >  slurm (27)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[36/242632] PGS…H:MATCH_COMBINE (pathways) | 2 of 3, failed: 2, retries: 2
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+[d5/d8b3bb] NOTE: Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15) -- Execution is retried (2)
+
+executor >  slurm (27)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[36/242632] PGS…H:MATCH_COMBINE (pathways) | 2 of 3, failed: 2, retries: 2
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+
+executor >  slurm (27)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[36/242632] PGS…H:MATCH_COMBINE (pathways) | 3 of 4, failed: 3, retries: 3
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+[36/242632] NOTE: Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15) -- Execution is retried (3)
+
+executor >  slurm (28)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[a1/0cbd8c] PGS…H:MATCH_COMBINE (pathways) | 3 of 4, failed: 3, retries: 3
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+[36/242632] NOTE: Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15) -- Execution is retried (3)
+
+executor >  slurm (28)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[a1/0cbd8c] PGS…H:MATCH_COMBINE (pathways) | 3 of 4, failed: 3, retries: 3
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+
+
+executor >  slurm (28)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[a1/0cbd8c] PGS…H:MATCH_COMBINE (pathways) | 3 of 4, failed: 3, retries: 3
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+ERROR ~ Error executing process > 'PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)'
+
+Caused by:
+  Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15)
+
+
+Command executed:
+
+  # filter match candidates to intersect with reference:
+  # omit multi-allelic variants in reference because these will cause errors with relabelling!...
+  # ... unclear whether we should remove them from target with (9th column) as well?
+  awk 'NR > 1 && $6 == "False" { print $7 } ' <(zcat pathways_4_matched.txt.gz pathways_1_matched.txt.gz pathways_7_matched.txt.gz pathways_8_matched.txt.gz pathways_5_matched.txt.gz pathways_2_matched.txt.gz pathways_3_matched.txt.gz pathways_11_matched.txt.gz pathways_9_matched.txt.gz pathways_14_matched.txt.gz pathways_10_matched.txt.gz pathways_13_matched.txt.gz pathways_6_matched.txt.gz pathways_12_matched.txt.gz pathways_15_matched.txt.gz pathways_18_matched.txt.gz pathways_16_matched.txt.gz pathways_17_matched.txt.gz pathways_21_matched.txt.gz pathways_22_matched.txt.gz pathways_19_matched.txt.gz pathways_20_matched.txt.gz) | gzip > filter_ids.txt.gz
+  
+  export POLARS_MAX_THREADS=2
+  
+  pgscatalog-matchmerge                          --dataset pathways             --scorefile scorefiles.txt.gz             --matches *.ipc.zst             --min_overlap 0.75                                       --filter_IDs filter_ids.txt.gz             --outdir $PWD             --split             --combined             -v
+  
+  cat <<-END_VERSIONS > versions.yml
+  MATCH_COMBINE:
+      pgscatalog.match: $(echo $(python -c 'import pgscatalog.match; print(pgscatalog.match.__version__)'))
+  END_VERSIONS
+
+Command exit status:
+  15
+
+Command output:
+  (empty)
+
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-13 21:08:01 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Reading filter file (variant IDs)
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:13 DEBUG    Excluding variants that are not in ID list (read 27506891 IDs)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-13 21:08:24 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:46 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:58 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:09:09 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/bin/pgscatalog-matchmerge", line 8, in <module>
+      sys.exit(run_merge())
+               ^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 70, in run_merge
+      matchdf = write_matches(matchresults=matchresults, score_df=score_df)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/_write.py", line 22, in write_matches
+      outfs = matchresults.write_scorefiles(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/lib/matchresult.py", line 329, in write_scorefiles
+      raise ZeroMatchesError(
+  pgscatalog.core.lib.pgsexceptions.ZeroMatchesError: All scores fail to meet match threshold 0.75
+  Exception ignored in atexit callback: <function _exit at 0x64f1a1e8180>
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 20, in _exit
+      shutil.rmtree(Config.TMPDIR)
+    File "/usr/local/lib/python3.11/shutil.py", line 752, in rmtree
+      _rmtree_safe_fd(fd, path, onerror)
+    File "/usr/local/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+      onerror(os.unlink, fullname, sys.exc_info())
+    File "/usr/local/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+      os.unlink(entry.name, dir_fd=topfd)
+  OSError: [Errno 16] Device or resource busy: '.nfs2d2ea49fe663f77f00000006'
+
+Work dir:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/a1/0cbd8ccfec7818f135b152268612d9
+
+Container:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/singularity/ghcr.io-pgscatalog-pygscatalog-pgscatalog-utils-1.4.4-singularity.img
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+
+ -- Check '.nextflow.log' file for details
+-[pgscatalog/pgsc_calc] Pipeline completed with errors-
+
+executor >  slurm (28)
+[fa/460788] PGS…216, pgp_id:, trait_efo:]) | 1 of 1 ✔
+[7a/b028c7] PGS…ECK:COMBINE_SCOREFILES (1) | 1 of 1 ✔
+[-        ] PGS…MPATIBLE:PLINK2_RELABELBIM -
+[skipped  ] PGS…R (pathways chromosome 22) | 22 of 22, stored: 22 ✔
+[-        ] PGS…MAKE_COMPATIBLE:PLINK2_VCF -
+[skipped  ] PGS…OJECT:EXTRACT_DATABASE (1) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…S (pathways chromosome 19) | 22 of 22, stored: 22 ✔
+[skipped  ] PGS…VARIANTS (pathways GRCh37) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…K2_MAKEBED_REF (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…TERSECT_THINNED (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…L_IDS (pathways null pvar) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…_MAKEBED_TARGET (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…T:PLINK2_ORIENT (pathways) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…CT:FRAPOSA_PCA (reference) | 1 of 1, stored: 1 ✔
+[skipped  ] PGS…FRAPOSA_PROJECT (pathways) | 1 of 1, stored: 1 ✔
+[23/ed8063] PGS…S (pathways chromosome 22) | 22 of 22 ✔
+[a1/0cbd8c] PGS…H:MATCH_COMBINE (pathways) | 4 of 4, failed: 4, retries: 3 ✘
+[-        ] PGS…Y_SCORE:RELABEL_SCOREFILES -
+[skipped  ] PGS…FREQ (pathways null afreq) | 1 of 1, stored: 1 ✔
+[-        ] PGS…C:APPLY_SCORE:PLINK2_SCORE -
+Plus 4 more processes waiting for tasks…
+ERROR ~ Error executing process > 'PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)'
+
+Caused by:
+  Process `PGSCATALOG_PGSCCALC:PGSCCALC:MATCH:MATCH_COMBINE (pathways)` terminated with an error exit status (15)
+
+
+Command executed:
+
+  # filter match candidates to intersect with reference:
+  # omit multi-allelic variants in reference because these will cause errors with relabelling!...
+  # ... unclear whether we should remove them from target with (9th column) as well?
+  awk 'NR > 1 && $6 == "False" { print $7 } ' <(zcat pathways_4_matched.txt.gz pathways_1_matched.txt.gz pathways_7_matched.txt.gz pathways_8_matched.txt.gz pathways_5_matched.txt.gz pathways_2_matched.txt.gz pathways_3_matched.txt.gz pathways_11_matched.txt.gz pathways_9_matched.txt.gz pathways_14_matched.txt.gz pathways_10_matched.txt.gz pathways_13_matched.txt.gz pathways_6_matched.txt.gz pathways_12_matched.txt.gz pathways_15_matched.txt.gz pathways_18_matched.txt.gz pathways_16_matched.txt.gz pathways_17_matched.txt.gz pathways_21_matched.txt.gz pathways_22_matched.txt.gz pathways_19_matched.txt.gz pathways_20_matched.txt.gz) | gzip > filter_ids.txt.gz
+  
+  export POLARS_MAX_THREADS=2
+  
+  pgscatalog-matchmerge                          --dataset pathways             --scorefile scorefiles.txt.gz             --matches *.ipc.zst             --min_overlap 0.75                                       --filter_IDs filter_ids.txt.gz             --outdir $PWD             --split             --combined             -v
+  
+  cat <<-END_VERSIONS > versions.yml
+  MATCH_COMBINE:
+      pgscatalog.match: $(echo $(python -c 'import pgscatalog.match; print(pgscatalog.match.__version__)'))
+  END_VERSIONS
+
+Command exit status:
+  15
+
+Command output:
+  (empty)
+
+Command error:
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling duplicated best match: keeping first instance as best_match = True
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiple scoring file lines (accession/row_nr) that best_match to the same variant
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling all duplicates with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants
+  pgscatalog.match.lib._match.preprocess: 2025-11-13 21:08:01 DEBUG    Complementing column REF
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling ambiguous variants with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Labelling multiallelic matches with exclude flag
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Not excluding flipped matches
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:01 DEBUG    Reading filter file (variant IDs)
+  pgscatalog.match.lib._match.label: 2025-11-13 21:08:13 DEBUG    Excluding variants that are not in ID list (read 27506891 IDs)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Filtering to best_match variants (with exclude flag = False)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:13 DEBUG    Calculating overlap between target genome and scoring file
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000213_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000212_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000215_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000214_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.filter: 2025-11-13 21:08:24 ERROR    Score PGS000216_hmPOS_GRCh37 fails minimum matching threshold (66.97% variants match)
+  pgscatalog.match.lib._match.log: 2025-11-13 21:08:24 DEBUG    Aggregating best matches into a summary table
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:46 INFO     No variants with effect_type=EffectType.ADDITIVE, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:08:58 INFO     No variants with effect_type=EffectType.DOMINANT, skipping deduplication
+  pgscatalog.match.lib._match.plink: 2025-11-13 21:09:09 INFO     No variants with effect_type=EffectType.RECESSIVE, skipping deduplication
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000213_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000212_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000215_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000214_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  pgscatalog.match.lib.matchresult: 2025-11-13 21:09:09 WARNING  Score PGS000216_hmPOS_GRCh37 matching failed with match rate 0.6696969696969697
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/bin/pgscatalog-matchmerge", line 8, in <module>
+      sys.exit(run_merge())
+               ^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 70, in run_merge
+      matchdf = write_matches(matchresults=matchresults, score_df=score_df)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/_write.py", line 22, in write_matches
+      outfs = matchresults.write_scorefiles(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/lib/matchresult.py", line 329, in write_scorefiles
+      raise ZeroMatchesError(
+  pgscatalog.core.lib.pgsexceptions.ZeroMatchesError: All scores fail to meet match threshold 0.75
+  Exception ignored in atexit callback: <function _exit at 0x64f1a1e8180>
+  Traceback (most recent call last):
+    File "/app/pgscatalog.utils/.venv/lib/python3.11/site-packages/pgscatalog/match/cli/merge_cli.py", line 20, in _exit
+      shutil.rmtree(Config.TMPDIR)
+    File "/usr/local/lib/python3.11/shutil.py", line 752, in rmtree
+      _rmtree_safe_fd(fd, path, onerror)
+    File "/usr/local/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+      onerror(os.unlink, fullname, sys.exc_info())
+    File "/usr/local/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+      os.unlink(entry.name, dir_fd=topfd)
+  OSError: [Errno 16] Device or resource busy: '.nfs2d2ea49fe663f77f00000006'
+
+Work dir:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/a1/0cbd8ccfec7818f135b152268612d9
+
+Container:
+  /projects/rpci/songyao/pnfioric/pgs_calc/work/singularity/ghcr.io-pgscatalog-pygscatalog-pgscatalog-utils-1.4.4-singularity.img
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+
+ -- Check '.nextflow.log' file for details
+

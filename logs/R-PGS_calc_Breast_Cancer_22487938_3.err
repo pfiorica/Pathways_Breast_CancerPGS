@@ -1,0 +1,6 @@
+Warning message:
+In dir.create(paste("./../", PGS.scoreID[p], sep = "")) :
+  './../PGS000214' already exists
+Warning message:
+In dir.create(paste("./../", PGS.scoreID[p], "/TotalScores", sep = "")) :
+  './../PGS000214/TotalScores' already exists
